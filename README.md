@@ -1,4 +1,4 @@
-### Hi, I'm Mars Yin
+### Hi, I'm Ace Yin
 
 A developer focusing on **AI integration and hardware product development**. I believe great products start with a deep understanding of the problem and are delivered through solid engineering.
 
